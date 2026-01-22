@@ -1,0 +1,405 @@
+2026-01-22 07:54:48,462 - main - INFO - Client disconnected: client_1769057496 - 1012
+2026-01-22 07:54:54,346 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 07:54:55,182 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 07:55:05,100 - main - INFO - Client client_1769057705 connected
+2026-01-22 07:55:10,659 - main - INFO - Client client_1769057705 disconnected: 1001
+2026-01-22 07:55:10,661 - main - ERROR - Error closing WebSocket for client_1769057705: 'WebSocketState' object has no attribute 'is_disconnected'
+2026-01-22 07:55:10,663 - main - INFO - Client client_1769057705 disconnected
+2026-01-22 07:55:11,504 - main - INFO - Client client_1769057711 connected
+2026-01-22 07:55:22,417 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:55:22,438 - main - ERROR - Error sending message to client_1769057711: 'WebSocketState' object has no attribute 'is_disconnected'
+2026-01-22 07:55:22,438 - main - ERROR - Error closing WebSocket for client_1769057711: 'WebSocketState' object has no attribute 'is_disconnected'
+2026-01-22 07:55:22,439 - main - INFO - Client client_1769057711 disconnected
+2026-01-22 07:56:37,583 - main - INFO - Client client_1769057711 disconnected: 1001
+2026-01-22 07:56:38,418 - main - INFO - Client client_1769057798 connected
+2026-01-22 07:56:41,763 - main - INFO - Client client_1769057798 disconnected: 1012
+2026-01-22 07:56:41,763 - main - ERROR - Error closing WebSocket for client_1769057798: 'WebSocketState' object has no attribute 'is_disconnected'
+2026-01-22 07:56:41,764 - main - INFO - Client client_1769057798 disconnected
+2026-01-22 07:56:47,895 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 07:56:48,606 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 07:56:51,498 - main - INFO - Client client_1769057811 connected
+2026-01-22 07:56:53,404 - main - INFO - Client client_1769057811 disconnected: 1001
+2026-01-22 07:56:53,405 - main - INFO - Client client_1769057811 disconnected
+2026-01-22 07:56:53,999 - main - INFO - Client client_1769057813 connected
+2026-01-22 07:56:57,520 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:57:10,000 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:57:24,041 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:58:23,324 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:58:35,766 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:58:53,116 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 07:59:27,943 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:00:47,638 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:01:04,916 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:01:11,186 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:01:35,826 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:01:56,823 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:02:08,372 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:02:34,019 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:02:58,984 - main - INFO - Client client_1769057813 disconnected: 1012
+2026-01-22 08:02:58,984 - main - INFO - Client client_1769057813 disconnected
+2026-01-22 08:03:03,632 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:03:04,372 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:03:38,884 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:03:39,699 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:03:42,289 - main - INFO - Client client_1769058222 connected
+2026-01-22 08:03:45,991 - main - INFO - Client client_1769058222 disconnected: 1001
+2026-01-22 08:03:45,993 - main - INFO - Client client_1769058222 disconnected
+2026-01-22 08:05:01,091 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:01,943 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:23,294 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:24,075 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:51,078 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:51,787 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:05:58,813 - main - INFO - Client client_1769058358 connected
+2026-01-22 08:06:05,250 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:06:12,009 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:06:27,882 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:08:03,132 - main - INFO - Client client_1769058358 disconnected: 1012
+2026-01-22 08:08:03,132 - main - INFO - Client client_1769058358 disconnected
+2026-01-22 08:08:08,219 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:08:08,920 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:08:12,782 - main - INFO - Client client_1769058492 connected
+2026-01-22 08:08:13,720 - main - INFO - Client client_1769058492 disconnected: 1001
+2026-01-22 08:08:13,721 - main - INFO - Client client_1769058492 disconnected
+2026-01-22 08:08:14,422 - main - INFO - Client client_1769058494 connected
+2026-01-22 08:08:26,328 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:08:26,341 - main - WARNING - Generated invalid response: *Thinking...*
+> **Understanding User's Input**
+> 
+> I've zeroed in on the user's input: "أو كيف الحال." My analysis flags it as Arabic, informal, and friendly. I'm now processing the nuances of "أو" and its function in the sentence, to ensure a truly relevant, helpful response, by focusing on translating the intent.
+> 
+> 
+> **Decoding the Arabic Phrase**
+> 
+> I'm presently dissecting the potential functions of "أو" in the sentence. Considering it might be a conjunction, I'm leaning toward the user perhaps beginning a new thought, or using "أو" in error. I am focusing on conveying the right sentiment, which is the user asking "How are you?".
+> 
+> 
+أهلاً بك! أنا بخير، شكراً لسؤالك. أتمنى أن تكون أنت أيضاً بصحة وعافية.
+كيف يمكنني مساعدتك اليوم؟ هل لديك أي استفسار أو موضوع تود التحدث عنه؟
+2026-01-22 08:08:36,667 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:08:36,670 - main - WARNING - Generated invalid response: *Thinking...*
+> **Evaluating User Intent**
+> 
+> I've been dissecting the user's Arabic query "ما هي  آخر الأخبار؟" and its inherent meaning. My analysis focuses on identifying the user's core need: seeking up-to-the-minute information. I'm now drilling down to understand how to best tailor a response to provide timely and relevant news.
+> 
+> 
+> **Clarifying Information Needs**
+> 
+> I'm presently focused on differentiating the ideal response. The user's query demands the provision of recent news, so I'm determining the best way to present it. My attention is drawn to the need for a concise, informative response. I'm exploring various answer formats and delivery strategies.
+> 
+> 
+عذراً، بصفتي نموذجاً للذكاء الاصطناعي، ليس لدي القدرة على تصفح الإنترنت بشكل مباشر لجلب الأخبار لحظة بلحظة (في الوقت الفعلي). معلوماتي تتوقف عند تاريخ آخر تحديث لي.
+لكن، للحصول على آخر الأخبار بدقة، أنصحك بزيارة المصادر التالية:
+1.  **القنوات الإخبارية العالمية والعربية:** مثل (الجزيرة، العربية، سكاي نيوز عربية، BBC عربي).
+2.  **مواقع الصحف الإلكترونية:** حسب دولتك أو اهتمامك.
+3.  **تطبيقات الأخبار:** مثل (Google News) أو (Apple News).
+4.  **منصات التواصل الاجتماعي:** (تويتر/X) يعتبر الأسرع في نقل الأحداث العاجلة.
+إذا كنت تسأل عن حدث تاريخي أو موضوع عام حدث في الماضي القريب، يمكنني مساعدتك بمعلومات عنه!
+2026-01-22 08:08:42,366 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:09:26,694 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:09:31,331 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:09:49,894 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:09:58,020 - main - INFO - Client client_1769058494 disconnected: 1012
+2026-01-22 08:09:58,021 - main - INFO - Client client_1769058494 disconnected
+2026-01-22 08:10:02,607 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:10:03,307 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:10:10,006 - main - INFO - Client client_1769058610 connected
+2026-01-22 08:10:11,235 - main - INFO - Client client_1769058610 disconnected: 1001
+2026-01-22 08:10:11,236 - main - INFO - Client client_1769058610 disconnected
+2026-01-22 08:10:11,824 - main - INFO - Client client_1769058611 connected
+2026-01-22 08:10:40,482 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:11:23,864 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:11:49,242 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:12:58,489 - main - INFO - Client client_1769058611 disconnected: 1012
+2026-01-22 08:12:58,490 - main - INFO - Client client_1769058611 disconnected
+2026-01-22 08:13:03,609 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:13:04,367 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:13:07,343 - main - INFO - Client client_1769058787 connected
+2026-01-22 08:13:08,220 - main - INFO - Client client_1769058787 disconnected: 1001
+2026-01-22 08:13:08,221 - main - INFO - Client client_1769058787 disconnected
+2026-01-22 08:13:09,430 - main - INFO - Client client_1769058789 connected
+2026-01-22 08:13:15,126 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:13:31,851 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:16:49,477 - main - INFO - Client client_1769058789 disconnected: 1012
+2026-01-22 08:16:49,477 - main - INFO - Client client_1769058789 disconnected
+2026-01-22 08:16:54,322 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:16:55,057 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:16:56,318 - main - INFO - Client client_1769059016 connected
+2026-01-22 08:16:57,670 - main - INFO - Client client_1769059016 disconnected: 1001
+2026-01-22 08:16:57,671 - main - INFO - Client client_1769059016 disconnected
+2026-01-22 08:16:58,325 - main - INFO - Client client_1769059018 connected
+2026-01-22 08:17:06,334 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:17:37,491 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:18:01,564 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:18:17,372 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:18:31,175 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:19:13,734 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:19:26,765 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:20:03,224 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:21:05,371 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:21:25,294 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:22:02,629 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:22:24,396 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:23:58,909 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:24:45,783 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:24:47,843 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:25:09,563 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:25:37,251 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:32:54,047 - main - INFO - Client client_1769059018 disconnected: 1012
+2026-01-22 08:32:54,047 - main - INFO - Client client_1769059018 disconnected
+2026-01-22 08:36:16,451 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:36:17,228 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 08:36:23,859 - main - INFO - Client client_1769060183 connected
+2026-01-22 08:36:31,896 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 08:37:02,905 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 09:14:23,067 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 09:14:30,801 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 09:14:42,936 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:13:14,194 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:13:15,661 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:16:05,655 - main - INFO - Client client_1769069765 connected
+2026-01-22 11:16:12,694 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:16:23,252 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:16:37,912 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:16:51,342 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:18:25,815 - main - INFO - Client client_1769069765 disconnected: 1001
+2026-01-22 11:18:25,827 - main - INFO - Client client_1769069765 disconnected
+2026-01-22 11:18:26,560 - main - INFO - Client client_1769069906 connected
+2026-01-22 11:18:31,489 - main - INFO - Client client_1769069906 disconnected: 1001
+2026-01-22 11:18:31,489 - main - INFO - Client client_1769069906 disconnected
+2026-01-22 11:18:32,424 - main - INFO - Client client_1769069912 connected
+2026-01-22 11:18:37,946 - main - INFO - Client client_1769069912 disconnected: 1012
+2026-01-22 11:18:37,947 - main - INFO - Client client_1769069912 disconnected
+2026-01-22 11:18:42,662 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:18:43,615 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:18:46,351 - main - INFO - Client client_1769069926 connected
+2026-01-22 11:18:48,921 - main - INFO - Client client_1769069926 disconnected: 1001
+2026-01-22 11:18:48,922 - main - INFO - Client client_1769069926 disconnected
+2026-01-22 11:18:49,806 - main - INFO - Client client_1769069929 connected
+2026-01-22 11:18:56,240 - main - INFO - Client client_1769069929 disconnected: 1001
+2026-01-22 11:18:56,240 - main - INFO - Client client_1769069929 disconnected
+2026-01-22 11:18:57,130 - main - INFO - Client client_1769069937 connected
+2026-01-22 11:19:09,224 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:19:32,861 - main - INFO - Client client_1769069937 disconnected: 1012
+2026-01-22 11:19:32,861 - main - INFO - Client client_1769069937 disconnected
+2026-01-22 11:19:39,507 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:19:40,244 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:19:40,325 - main - INFO - Client client_1769069980 connected
+2026-01-22 11:19:42,228 - main - INFO - Client client_1769069980 disconnected: 1001
+2026-01-22 11:19:42,229 - main - INFO - Client client_1769069980 disconnected
+2026-01-22 11:19:43,284 - main - INFO - Client client_1769069983 connected
+2026-01-22 11:19:49,021 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:21:26,037 - main - INFO - Client client_1769069983 disconnected: 1012
+2026-01-22 11:21:26,038 - main - INFO - Client client_1769069983 disconnected
+2026-01-22 11:21:30,892 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:21:31,627 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:21:31,853 - main - INFO - Client client_1769070091 connected
+2026-01-22 11:21:39,219 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:23:49,524 - main - INFO - Client client_1769070091 disconnected: 1012
+2026-01-22 11:23:49,524 - main - INFO - Client client_1769070091 disconnected
+2026-01-22 11:24:06,578 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:24:07,742 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:24:11,629 - main - INFO - Client client_1769070251 connected
+2026-01-22 11:24:29,172 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:24:50,517 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:31:34,485 - main - INFO - Client client_1769070251 disconnected: 1012
+2026-01-22 11:31:34,485 - main - INFO - Client client_1769070251 disconnected
+2026-01-22 11:31:39,471 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:31:40,168 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:31:43,944 - main - INFO - Client client_1769070703 connected
+2026-01-22 11:31:47,225 - main - INFO - Client client_1769070703 disconnected: 1001
+2026-01-22 11:31:47,226 - main - INFO - Client client_1769070703 disconnected
+2026-01-22 11:31:48,083 - main - INFO - Client client_1769070708 connected
+2026-01-22 11:31:52,218 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:32:04,018 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:32:11,798 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:32:26,579 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:32:58,512 - main - INFO - Client client_1769070708 disconnected: 1012
+2026-01-22 11:32:58,512 - main - INFO - Client client_1769070708 disconnected
+2026-01-22 11:33:52,867 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:33:53,643 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:33:53,900 - main - INFO - Client client_1769070833 connected
+2026-01-22 11:33:56,843 - main - INFO - Client client_1769070833 disconnected: 1001
+2026-01-22 11:33:56,847 - main - INFO - Client client_1769070833 disconnected
+2026-01-22 11:33:57,588 - main - INFO - Client client_1769070837 connected
+2026-01-22 11:34:02,126 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:34:04,958 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:34:18,209 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:34:45,795 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:35:16,173 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:35:29,715 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:35:55,160 - main - INFO - Client client_1769070837 disconnected: 1012
+2026-01-22 11:35:55,160 - main - INFO - Client client_1769070837 disconnected
+2026-01-22 11:35:59,866 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:36:00,594 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:36:03,952 - main - INFO - Client client_1769070963 connected
+2026-01-22 11:36:07,523 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:36:20,826 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:36:25,914 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:36:39,102 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:36:54,626 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:38:06,488 - main - INFO - Client client_1769070963 disconnected: 1012
+2026-01-22 11:38:06,489 - main - INFO - Client client_1769070963 disconnected
+2026-01-22 11:38:11,461 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:38:12,200 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:38:12,553 - main - INFO - Client client_1769071092 connected
+2026-01-22 11:38:15,696 - main - INFO - Client client_1769071092 disconnected: 1001
+2026-01-22 11:38:15,699 - main - INFO - Client client_1769071092 disconnected
+2026-01-22 11:38:16,448 - main - INFO - Client client_1769071096 connected
+2026-01-22 11:38:24,713 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:38:40,238 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:39:48,275 - main - INFO - Client client_1769071096 disconnected: 1012
+2026-01-22 11:39:48,276 - main - INFO - Client client_1769071096 disconnected
+2026-01-22 11:39:53,764 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:39:54,547 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:40:13,885 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:40:14,617 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:40:14,794 - main - INFO - Client client_1769071214 connected
+2026-01-22 11:40:19,991 - main - INFO - Client client_1769071214 disconnected: 1001
+2026-01-22 11:40:19,992 - main - INFO - Client client_1769071214 disconnected
+2026-01-22 11:40:20,740 - main - INFO - Client client_1769071220 connected
+2026-01-22 11:40:31,922 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:40:44,250 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:42:44,851 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:43:01,205 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:49:10,995 - main - INFO - Client client_1769071220 disconnected: 1012
+2026-01-22 11:49:10,996 - main - INFO - Client client_1769071220 disconnected
+2026-01-22 11:49:16,144 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:49:16,898 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:49:17,362 - main - INFO - Client client_1769071757 connected
+2026-01-22 11:49:50,134 - main - INFO - Client client_1769071757 disconnected: 1012
+2026-01-22 11:49:50,134 - main - INFO - Client client_1769071757 disconnected
+2026-01-22 11:49:55,085 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:49:56,883 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:55:50,207 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:55:50,960 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 11:55:53,229 - main - INFO - Client client_1769072153 connected
+2026-01-22 11:56:06,400 - main - INFO - Client client_1769072153 disconnected: 1001
+2026-01-22 11:56:06,401 - main - INFO - Client client_1769072153 disconnected
+2026-01-22 11:56:07,320 - main - INFO - Client client_1769072167 connected
+2026-01-22 11:56:21,112 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:56:40,443 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:56:44,816 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:56:56,354 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:57:12,577 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:57:27,537 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:57:39,151 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 11:57:39,153 - main - WARNING - Generated invalid response: أعتذر عن الخطأ، وأشكرك على التوضيح. إذا كان لديك أي سؤال آخر أو تحتاج لمعلومات حول أي موضوع، فلا تتردد في إخباري!
+2026-01-22 11:58:22,004 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:02:38,891 - main - INFO - Client client_1769072167 disconnected: 1012
+2026-01-22 12:02:38,892 - main - INFO - Client client_1769072167 disconnected
+2026-01-22 12:02:43,809 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:02:44,612 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:02:44,666 - main - INFO - Client client_1769072564 connected
+2026-01-22 12:02:48,062 - main - INFO - Client client_1769072564 disconnected: 1001
+2026-01-22 12:02:48,068 - main - INFO - Client client_1769072564 disconnected
+2026-01-22 12:02:49,034 - main - INFO - Client client_1769072569 connected
+2026-01-22 12:02:55,291 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2026-01-22 12:02:55,293 - main - ERROR - OpenAI API error: Error code: 400 - {'error': {'message': "Unsupported parameter: 'reasoning.effort' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'reasoning.effort', 'code': 'unsupported_parameter'}}
+2026-01-22 12:02:55,348 - main - ERROR - Traceback (most recent call last):
+  File "d:\Moaaz\api\MozVoiceChanger\audio api\main.py", line 157, in _call_openai_chat
+    response = self.client.chat.completions.create(
+        model="assistant",
+    ...<6 lines>...
+        reasoning_effort="xhigh"
+    )
+  File "C:\Users\moaaz\AppData\Local\Programs\Python\Python313\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\moaaz\AppData\Local\Programs\Python\Python313\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ~~~~~~~~~~^
+        "/chat/completions",
+        ^^^^^^^^^^^^^^^^^^^^
+    ...<47 lines>...
+        stream_cls=Stream[ChatCompletionChunk],
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\moaaz\AppData\Local\Programs\Python\Python313\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\moaaz\AppData\Local\Programs\Python\Python313\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.BadRequestError: Error code: 400 - {'error': {'message': "Unsupported parameter: 'reasoning.effort' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'reasoning.effort', 'code': 'unsupported_parameter'}}
+
+2026-01-22 12:02:55,352 - main - ERROR - Error in OpenAI API call: Error code: 400 - {'error': {'message': "Unsupported parameter: 'reasoning.effort' is not supported with this model.", 'type': 'invalid_request_error', 'param': 'reasoning.effort', 'code': 'unsupported_parameter'}}
+2026-01-22 12:03:22,413 - main - INFO - Client client_1769072569 disconnected: 1012
+2026-01-22 12:03:22,413 - main - INFO - Client client_1769072569 disconnected
+2026-01-22 12:03:27,786 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:03:28,571 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:03:33,099 - main - INFO - Client client_1769072613 connected
+2026-01-22 12:03:39,870 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:04:21,050 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:04:21,052 - main - WARNING - Generated invalid response: 
+2026-01-22 12:04:37,323 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:04:51,491 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:04:51,492 - main - WARNING - Generated invalid response: 
+2026-01-22 12:05:04,372 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:05:18,067 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:05:18,070 - main - WARNING - Generated invalid response: 
+2026-01-22 12:05:40,179 - main - INFO - Client client_1769072613 disconnected: 1012
+2026-01-22 12:05:40,179 - main - INFO - Client client_1769072613 disconnected
+2026-01-22 12:05:46,110 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:05:46,903 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:05:47,087 - main - INFO - Client client_1769072747 connected
+2026-01-22 12:05:48,510 - main - INFO - Client client_1769072747 disconnected: 1001
+2026-01-22 12:05:48,515 - main - INFO - Client client_1769072747 disconnected
+2026-01-22 12:05:49,275 - main - INFO - Client client_1769072749 connected
+2026-01-22 12:05:56,455 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:05:56,469 - main - WARNING - Generated invalid response: 
+2026-01-22 12:08:02,834 - main - INFO - Client client_1769072749 disconnected: 1001
+2026-01-22 12:08:02,839 - main - INFO - Client client_1769072749 disconnected
+2026-01-22 12:08:03,519 - main - INFO - Client client_1769072883 connected
+2026-01-22 12:08:09,357 - main - INFO - Client client_1769072883 disconnected: 1012
+2026-01-22 12:08:09,357 - main - INFO - Client client_1769072883 disconnected
+2026-01-22 12:08:14,778 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:08:15,552 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:08:20,088 - main - INFO - Client client_1769072900 connected
+2026-01-22 12:08:26,713 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:08:54,117 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:09:49,400 - main - INFO - Client client_1769072900 disconnected: 1012
+2026-01-22 12:09:49,401 - main - INFO - Client client_1769072900 disconnected
+2026-01-22 12:09:54,733 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:09:55,555 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:09:56,009 - main - INFO - Client client_1769072996 connected
+2026-01-22 12:09:58,591 - main - INFO - Client client_1769072996 disconnected: 1001
+2026-01-22 12:09:58,595 - main - INFO - Client client_1769072996 disconnected
+2026-01-22 12:09:59,437 - main - INFO - Client client_1769072999 connected
+2026-01-22 12:10:12,598 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:10:23,625 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:10:23,628 - main - WARNING - Generated invalid response: عذراً، لا يمكنني تصفح الإنترنت للبحث عن أحدث الأخبار. لكن يمكنك متابعة مواقع الأخبار الرسمية أو استخدام تطبيقات الأخبار للحصول على آخر التطورات. هل أستطيع مساعدتك بمعلومات أخرى؟
+2026-01-22 12:10:46,819 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:11:41,522 - main - INFO - Client client_1769072999 disconnected: 1001
+2026-01-22 12:11:41,529 - main - INFO - Client client_1769072999 disconnected
+2026-01-22 12:11:42,299 - main - INFO - Client client_1769073102 connected
+2026-01-22 12:11:45,765 - main - INFO - Client client_1769073102 disconnected: 1012
+2026-01-22 12:11:45,766 - main - INFO - Client client_1769073102 disconnected
+2026-01-22 12:11:51,153 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:11:51,942 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:11:53,963 - main - INFO - Client client_1769073113 connected
+2026-01-22 12:12:01,190 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:12:08,001 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:12:08,004 - main - WARNING - Generated invalid response: يبدو أن هناك خطأ في الكتابة. كيف يمكنني مساعدتك اليوم؟
+2026-01-22 12:12:50,089 - main - INFO - Client client_1769073113 disconnected: 1012
+2026-01-22 12:12:50,090 - main - INFO - Client client_1769073113 disconnected
+2026-01-22 12:12:55,297 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:12:56,092 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:12:56,434 - main - INFO - Client client_1769073176 connected
+2026-01-22 12:13:05,750 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:13:29,463 - main - INFO - Client client_1769073176 disconnected: 1001
+2026-01-22 12:13:29,470 - main - INFO - Client client_1769073176 disconnected
+2026-01-22 12:13:30,217 - main - INFO - Client client_1769073210 connected
+2026-01-22 12:13:36,184 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:14:14,575 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:16:58,687 - main - INFO - Client client_1769073210 disconnected: 1012
+2026-01-22 12:16:58,688 - main - INFO - Client client_1769073210 disconnected
+2026-01-22 12:17:03,614 - __main__ - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:17:04,349 - main - INFO - ArabicChatbot initialized with OpenAI API
+2026-01-22 12:17:07,946 - main - INFO - Client client_1769073427 connected
+2026-01-22 12:17:08,996 - main - INFO - Client client_1769073427 disconnected: 1001
+2026-01-22 12:17:08,999 - main - INFO - Client client_1769073427 disconnected
+2026-01-22 12:17:09,875 - main - INFO - Client client_1769073429 connected
+2026-01-22 12:17:16,585 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:17:32,288 - httpx - INFO - HTTP Request: POST https://api.poe.com/v1/chat/completions "HTTP/1.1 200 OK"
+2026-01-22 12:17:48,685 - main - INFO - Client client_1769073429 disconnected: 1001
+2026-01-22 12:17:48,685 - main - INFO - Client client_1769073429 disconnected
