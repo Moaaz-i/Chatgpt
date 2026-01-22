@@ -13,7 +13,6 @@ from typing import Dict, List
 from datetime import datetime
 import os
 import traceback
-from googlesearch import search as google_search
 
 # Initialize FastAPI app
 app = FastAPI()
